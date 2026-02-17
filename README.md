@@ -11,6 +11,7 @@ The dashboard helps understand customer behavior, sales performance, and regiona
 to support data-driven decision-making.
 
 
+
 2.Business Objective
 
 1. Analyze overall sales and order performance
@@ -24,6 +25,7 @@ to support data-driven decision-making.
 5.Identify top-performing states
 
 6.Analyze sales by different sales channels.
+
 
 
 
@@ -43,6 +45,7 @@ to support data-driven decision-making.
 
 
 
+
 4. Tools & Techniques Used
 
 1.Microsoft Excel
@@ -57,6 +60,7 @@ to support data-driven decision-making.
 
 
 
+
 5. Key Insights
 
 1. Women Contributed higher sales compared to men.
@@ -68,6 +72,7 @@ to support data-driven decision-making.
 4. Most orders were successfully delivered.
 
 5. Specific sales channels performed better than others.
+
 
 
 
