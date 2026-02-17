@@ -10,6 +10,7 @@ meaningful business insights.
 The dashboard helps understand customer behavior, sales performance, and regional trends
 to support data-driven decision-making.
 
+
 2.Business Objective
 
 1. Analyze overall sales and order performance
@@ -23,6 +24,7 @@ to support data-driven decision-making.
 5.Identify top-performing states
 
 6.Analyze sales by different sales channels.
+
 
 
 3.Dashboard Features & Charts
@@ -40,6 +42,7 @@ to support data-driven decision-making.
 6. Channel-wise sales analysis
 
 
+
 4. Tools & Techniques Used
 
 1.Microsoft Excel
@@ -53,6 +56,7 @@ to support data-driven decision-making.
 5.Excel Formulas
 
 
+
 5. Key Insights
 
 1. Women Contributed higher sales compared to men.
@@ -64,6 +68,7 @@ to support data-driven decision-making.
 4. Most orders were successfully delivered.
 
 5. Specific sales channels performed better than others.
+
 
 
 6. Conclusion
