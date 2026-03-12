@@ -1,13 +1,13 @@
 # Vrinda-Store-E-commerce-sales-dashboard
-Excel-based E-commerce sales dashboard analyzing sales performance, customer behavior, and revenue trends using pivot tables.
+Excel-based E-commerce sales dashboard analyzing sales performance, customer behavior, and revenue trends.
 
 
 1.Project Overview
 
-This project is an interactive E-commerce sales dashboard created using microsoft excel.
+This project is an interactive E-commerce sales dashboard created using microsoft excel and Power BI.
 The dataset was sourced from kaggle and cleaned, transformed, and analyzed to generate
 meaningful business insights.
-The dashboard helps understand customer behavior, sales performance, and regional trends
+The dashboard helps understand customer behavior, high-performing and underperforming regions, sales performance, and regional trends
 to support data-driven decision-making.
 
 
@@ -22,16 +22,14 @@ to support data-driven decision-making.
 
 4.Track order status(Delivered,Cancellled,Returned,etc)
 
-5.Identify top-performing states
-
-6.Analyze sales by different sales channels.
+5.Analyze sales by different sales channels.
 
 
 
 
 3.Dashboard Features & Charts
 
-1. Orders Vs Sales Analysis
+1. high-performing and underperforming regions using line chart visualizations.
    
 2. Men vs Women sales comparison
  
@@ -39,9 +37,8 @@ to support data-driven decision-making.
  
 4. Order status distribution
   
-5. Top 10 states by sales
-  
-6. Channel-wise sales analysis
+5. Channel-wise sales analysis
+
 
 
 
@@ -52,11 +49,10 @@ to support data-driven decision-making.
 
 2.Data cleaning & data manipulation
 
-3.Pivot tables
+3.DAX
 
-4.Pivot charts
+4.Power Query
 
-5.Excel Formulas
 
 
 
@@ -65,7 +61,7 @@ to support data-driven decision-making.
 
 1. Women Contributed higher sales compared to men.
 
-2. Certain age groups generated maximum revenue.
+2. Certain regions perfomaing well then others.
 
 3. A few states contributed significantly to overall sales.
 
